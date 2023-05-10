@@ -1,6 +1,6 @@
 # Explainable AI working group
 This is the official repository of the XAI working group.
-
+Join our Slack channel [here](https://join.slack.com/t/xaiwg/shared_invite/zt-1uuoqrchx-TWNkLkB14Kdzz_AL7mFWhw)
 # Principles
 
 * NIST principles of [XAI](https://nvlpubs.nist.gov/nistpubs/ir/2021/NIST.IR.8312.pdf)
