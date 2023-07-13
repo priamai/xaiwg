@@ -10,6 +10,12 @@ Join our Slack channel [here](https://join.slack.com/t/xaiwg/shared_invite/zt-1u
 
 This paper are linked in our conversations.
 
+* [DARPA XAI retrospective] - (https://onlinelibrary.wiley.com/doi/epdf/10.1002/ail2.61)
+* [Extensive XAI literature survey from DARPA XAI] - (https://arxiv.org/abs/1902.01876)
+* [Principles of Explanation in Human-AI Systems] - (https://arxiv.org/abs/2102.04972)
+* [NIST Four Principles of Explainable Artificial Intelligence] - (https://www.nist.gov/publications/four-principles-explainable-artificial-intelligence)
+
+
 ## Cyber Security
 
 
